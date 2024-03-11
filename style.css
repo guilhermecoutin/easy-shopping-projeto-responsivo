@@ -121,14 +121,14 @@ img {
         width: 268px;
         font-size: 42px;
         line-height: 52px;
-        margin: 15px auto 0;
+        margin: 100px auto 0;
     }
     
     p {
-        width: 296px;
-        font-size: 18px;
+        /* width: 320px; */
+        font-size: 24px;
         line-height: 24px;
-        margin: 15px auto;
+        margin: 50px auto;
 
     }
 
@@ -144,7 +144,7 @@ img {
         position: static;
         display: block;
         margin: 0 auto;
-        max-width: 75%;
+        max-width: 70%;
         padding: 20px;
     }
 }
@@ -156,11 +156,8 @@ img {
     }
 
     p {
-        font-size: 14px;
-    }
-
-    img {
-        max-width: 70%;
+        width: 320px;
+        font-size: 18px;
     }
 }
 
